@@ -1,7 +1,14 @@
 # U.S. Airline Traffic Data (2003-2023)
 Analysis of U.S. airline traffic data to identify peak and low travel seasons using Python 
 
-## Dataset Description (توضیحات دیتاست)
+## Data Source
+
+The dataset used in this project is sourced from Kaggle:
+* Dataset Link: [U.S. Airline Traffic Data (2003-2023) on Kaggle](https://www.kaggle.com/datasets/yyxian/u-s-airline-traffic-data)
+
+*Note: The file air traffic.csv contains monthly data on domestic and international passengers, flights, and performance metrics.*
+
+## Dataset Description 
 
 The project utilizes the air traffic.csv dataset, which contains historical aviation traffic data. Below is the explanation of each column:
 
